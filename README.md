@@ -12,5 +12,5 @@
 ## Exibição Modelo Star Schema Power BI
 <br>
 <img width="1250" height="650" alt="Exibição Modelo Star Schema Power BI" src="https://github.com/user-attachments/assets/2645b836-8bc4-4997-99ba-b601c2a770f2" />
-
+<br>
 
